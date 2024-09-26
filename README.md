@@ -1,12 +1,4 @@
-
 ![WIN_20240926_15_43_54_Pro](https://github.com/user-attachments/assets/7020ed26-2a8a-474f-8f23-4a8cca27c1c6)
-
-
-
-
-
-
-
 # Pr-sentation
 Je suis Bruno PUGLIESE , je prépare le diplôme de **TSSR** grace à la **Wild Code School**(https://www.wildcodeschool.com/fr-fr/)
 # Formation
