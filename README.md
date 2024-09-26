@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # Pr-sentation
 Je suis Bruno PUGLIESE , je prépare le diplôme de **TSSR** grace à la **Wild Code School**(https://www.wildcodeschool.com/fr-fr/)
 # Formation
